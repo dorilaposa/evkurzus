@@ -1,1 +1,2 @@
-# evkurzus
+# evkurzus 
+A webfejlesztés fun
